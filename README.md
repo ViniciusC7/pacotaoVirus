@@ -16,7 +16,7 @@ Esse material é **somente para estudo**. Não sou responsável pelo que pode ac
 
 Não me responsabilizo por qualquer dano que possa acontecer. **Você está por sua conta e risco.**
 
-# ====================================================================================================================================
+# =======================================
 
 # Virus Package
 
