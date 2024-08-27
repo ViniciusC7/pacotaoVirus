@@ -15,3 +15,24 @@ Esse material é **somente para estudo**. Não sou responsável pelo que pode ac
 ## Isenção de Responsabilidade
 
 Não me responsabilizo por qualquer dano que possa acontecer. **Você está por sua conta e risco.**
+
+# ====================================================================================================================================
+
+# Virus Package
+
+This repository contains over 7,000 viruses.
+
+## Warning
+
+This material is **for study purposes only**. I am not responsible for what might happen if you use this in any unsafe environment.
+
+## Recommendations
+
+- **Use in isolated environments:** Test in virtual machines or controlled environments.
+- **Do not use on important systems:** Never run these viruses on machines that contain important data or that you rely on daily.
+- **Keep your security up to date:** Ensure your systems are properly protected.
+
+## Disclaimer
+
+I am not responsible for any damage that may occur. **You use this at your own risk.**
+
