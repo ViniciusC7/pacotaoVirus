@@ -17,6 +17,8 @@ Esse material é **somente para estudo**. Não sou responsável pelo que pode ac
 Não me responsabilizo por qualquer dano que possa acontecer. **Você está por sua conta e risco.**
 
 # --------------------------------------
+[Link do pack via google drive](https://drive.google.com/drive/folders/1etu3xqag0OlJwNuxQAClhc0qdLqfLPjD?usp=sharing "Link do pack via google drive")
+# --------------------------------------
 
 ## Warning
 
